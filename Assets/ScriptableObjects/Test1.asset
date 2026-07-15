@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72804f335d68d0040939e3c82097d8a0, type: 3}
+  m_Name: Test1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogesSO
+  CharacterSprite: {fileID: 0}
+  Nodes:
+  - DialogueText: "\u0414\u0438\u0430\u043B\u043E\u0433 1"
+    FirstButtonText: "\\\u043A\u0440\\"
+    SecondButtonText: "\u043F\u043E\u0430\u0447\u043E\u0440"
+    FirstNextNode: 1
+    SecondNextNode: 1
+  - DialogueText: "\u0414\u0438\u0430\u043B\u043E\u0433 2"
+    FirstButtonText: "\u044B\u0440\u044B\u043E\u044B"
+    SecondButtonText: 
+    FirstNextNode: 1
+    SecondNextNode: 1
