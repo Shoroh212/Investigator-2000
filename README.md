@@ -18,11 +18,7 @@
 ![Геймплей](Screenshots/Gameplay.png)
 
 ## 🛠️ Используемые технологии
-
-- Unity 2022.3 LTS
-- C#
-- Zenject
-- DOTween
+- UniTask
 - TextMeshPro
 
 ## 🚀 Запуск проекта
@@ -33,13 +29,7 @@
 4. Нажать Play
 
 ## 📂 Структура проекта
-
-Assets/
-├── Scripts/
-├── Prefabs/
-├── Scenes/
-├── Materials/
-└── UI/
+MVP
 
 ## 📄 Архитектура
 
@@ -49,8 +39,5 @@ Assets/
 - UI
 - Gameplay
 
-Используются интерфейсы и внедрение зависимостей.
 
-## 📜 Лицензия
 
-MIT
