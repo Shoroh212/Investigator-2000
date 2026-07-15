@@ -12,10 +12,13 @@
 - Анимации UI
 - Система диалогов
 
-## 📷 Скриншоты
 
-![Главное меню](Screenshots/SecondScreenshots)
-![Геймплей](Screenshots/FirstScreenshots)
+
+## Скриншоты
+
+![Главное меню](Assets/Screenshots/SecondScreenshot.png)
+
+![Геймплей](Assets/Screenshots/FirstScreenshot.png)
 
 ## 🛠️ Используемые технологии
 - UniTask
