@@ -14,8 +14,8 @@
 
 ## 📷 Скриншоты
 
-![Главное меню](Screenshots/Menu.png)
-![Геймплей](Screenshots/Gameplay.png)
+![Главное меню](Screenshots/SecondScreenshots)
+![Геймплей](Screenshots/FirstScreenshots)
 
 ## 🛠️ Используемые технологии
 - UniTask
