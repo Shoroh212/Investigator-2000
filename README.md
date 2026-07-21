@@ -13,13 +13,6 @@
 - Система диалогов
 
 
-
-## Скриншоты
-
-![Главное меню](Assets/Screenshots/SecondScreenshot.png)
-
-![Геймплей](Assets/Screenshots/FirstScreenshot.png)
-
 ## 🛠️ Используемые технологии
 - UniTask
 - TextMeshPro
@@ -36,7 +29,7 @@ MVP
 
 ## 📄 Архитектура
 
-Проект разделен на:
+Проект разделен на
 - Core
 - Services
 - UI
@@ -44,3 +37,7 @@ MVP
 
 
 
+
+![Главное меню](Assets/Screenshots/SecondScreenshot.png)
+
+![Геймплей](Assets/Screenshots/FirstScreenshot.png)
