@@ -6,8 +6,8 @@
 
 ## 🎮 Возможности
 
-- Новая Input System
-- Dependency Injection (Zenject)
+
+
 - Чистая архитектура
 - Анимации UI
 - Система диалогов
